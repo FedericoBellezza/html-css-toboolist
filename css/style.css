@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "poppins";
 }
   
   /* # UTILS */
@@ -15,4 +16,20 @@
     max-width: 100%;
 }
 
+/* header */
+
+.logo-link{
+  text-decoration: none;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: black;
+}
+
+.logo-img{
+  vertical-align: middle;
+}
+
+.header-container{
+  margin: 20px 30px;
+}
 
